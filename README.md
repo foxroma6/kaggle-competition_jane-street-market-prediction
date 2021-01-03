@@ -16,4 +16,4 @@ https://www.kaggle.com/c/jane-street-market-prediction/overview/evaluation
 - train.csv: 학습 데이터
 - example_test.csv: 숨김 테스트 파일 셋
 - example_sample_submission: 제출 파일
-- features.csv: 숨겨져있는 피쳐들의 메타데이터
+- features.csv: 데이터 컬럼들의 속성을 담고 있는 메타데이터
